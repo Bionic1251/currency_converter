@@ -1,0 +1,7 @@
+Plugin-Version: 1.0.2
+Plugin-Type: tradable_app
+Plugin-ClassPath: ${classpath}
+Plugin-Vendor-Id: tween.oaks
+Plugin-SymbolicName: tween.oaks.currencyconverter
+Plugin-Name: Currency Converter
+Plugin-Vendor: tween.oaks
